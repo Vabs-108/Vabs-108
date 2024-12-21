@@ -10,9 +10,7 @@
   </p>
   
   <!-- Profile GIF aligned to the right -->
-  <p align="right" style="margin: 0;">
-    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952rsofwhmoh6v4qhi2gz6uyguz1rk15hsjygxs6jwi&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="MasterHead">
-  </p>
+
 
 </div>
 
