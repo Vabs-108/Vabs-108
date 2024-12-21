@@ -1,16 +1,18 @@
 # Hi there 👋, I'm Vaibhav Khanna
 ### An Optimistic Developer who loves Automation and Building Scalable Systems
 
-<!-- Flex container to align the profile views and GIF properly -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0;">
+<!-- Create a Flex container to hold the Profile Views and GIF -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0; width: 100%;">
 
-  <!-- Profile Views aligned to the left -->
-  <p align="left" style="margin: 0; padding-right: 10px;">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+  <!-- Profile Views on the left -->
+  <p style="margin: 0;">
+    <img src="https://komarev.com/ghpvc/?username=vabs-108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
   
-  <!-- Profile GIF aligned to the right -->
-
+  <!-- GIF on the right -->
+  <p style="margin: 0;">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Profile GIF" />
+  </p>
 
 </div>
 
