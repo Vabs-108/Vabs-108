@@ -2,12 +2,12 @@
 ### An Optimistic Developer who loves Automation and Building Scalable Systems
 
 <!-- Profile GIF centered for better aesthetic -->
-<p align="center">
+<p align="right">
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952rsofwhmoh6v4qhi2gz6uyguz1rk15hsjygxs6jwi&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="MasterHead">
 </p>
 
 <!-- Profile Views centered -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=vabs-108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
