@@ -2,7 +2,7 @@
 ### An Optimistic Developer who loves Automation and Building Scalable Systems
 
 <!-- Create a Flex container to hold the Profile Views and GIF -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0; width: 100%; background-color: #121212; color: white;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0; width: 100%; background-color: #121212; color: white; padding: 10px; border-radius: 10px;">
 
   <!-- Profile Views on the left -->
   <p style="margin: 0;">
@@ -17,15 +17,18 @@
 </div>
 
 ## About Me
+<div style="background-color: #121212; color: white; padding: 20px; border-radius: 10px;">
 - 🔭 I’m currently working on **Large Scale Deviations Project**.
 - 🌱 I’m learning **DevOps, Networking, Web3, GoLang** to enhance my automation and system design skills.
 - 👨‍💻 You can explore my projects on [GitHub](https://github.com/Vabs-108).
 - 💬 Ask me about **Python, Networking, Netmiko** – I love solving network automation problems!
 - 📫 Reach me at: [vaibhav108khanna@gmail.com](mailto:vaibhav108khanna@gmail.com).
 - ⚡ Fun Fact: **I'm passionate about Stocks and Financial Analysis.**
+</div>
 
 ## 🔧 Languages and Tools
 
+<div style="background-color: #121212; color: white; padding: 20px; border-radius: 10px;">
 Here are the main technologies and tools I work with:
 
 ### Programming Languages & Frameworks:
@@ -53,6 +56,7 @@ Here are the main technologies and tools I work with:
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" /></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" /></a>
 </p>
+</div>
 
 ## 📊 GitHub Stats
 <p align="center">
