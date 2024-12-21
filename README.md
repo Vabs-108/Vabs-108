@@ -55,18 +55,20 @@ Here are the main technologies and tools I work with:
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
+<p style="text-align: left;">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vabs-108&" alt="vabs-108" />
+</p>
+
+<p style="text-align: right;">
   <img src="https://github-readme-stats.vercel.app/api?username=vabs-108&show_icons=true&locale=en" alt="vabs-108" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vabs-108&" alt="vabs-108" />
-</p>
-
-## 🌱 Top Languages
-<p align="center">
+<p align="center" style= margin-top: 30px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vabs-108&show_icons=true&locale=en&layout=compact" alt="vabs-108" />
 </p>
+
+
+
 
 ## 📬 Let's Connect!
 - [LinkedIn](#) (Placeholder link)
