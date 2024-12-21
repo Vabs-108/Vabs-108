@@ -1,15 +1,17 @@
 # Hi there 👋, I'm Vaibhav Khanna
 ### An Optimistic Developer who loves Automation and Building Scalable Systems
 
-<!-- Profile GIF centered for better aesthetic -->
-<p align="right">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952rsofwhmoh6v4qhi2gz6uyguz1rk15hsjygxs6jwi&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="MasterHead">
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Profile Views on the left -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=vabs-108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
 
-<!-- Profile Views centered -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vabs-108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  <!-- Profile GIF on the right -->
+  <p>
+    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952rsofwhmoh6v4qhi2gz6uyguz1rk15hsjygxs6jwi&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="MasterHead">
+  </p>
+</div>
 
 ## About Me
 - 🔭 I’m currently working on **Large Scale Deviations Project**.
@@ -50,16 +52,16 @@ Here are the main technologies and tools I work with:
 </p>
 
 ## 📊 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vabs-108&show_icons=true&locale=en" alt="vabs-108" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vabs-108&" alt="vabs-108" />
 </p>
 
 ## 🌱 Top Languages
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vabs-108&show_icons=true&locale=en&layout=compact" alt="vabs-108" />
 </p>
 
