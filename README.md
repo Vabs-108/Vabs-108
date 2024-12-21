@@ -2,7 +2,7 @@
 ### An Optimistic Developer who loves Automation and Building Scalable Systems
 
 <!-- Create a Flex container to hold the Profile Views and GIF -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0; width: 100%; background-color: #121212; color: white;">
 
   <!-- Profile Views on the left -->
   <p style="margin: 0;">
@@ -56,16 +56,16 @@ Here are the main technologies and tools I work with:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vabs-108&show_icons=true&locale=en" alt="vabs-108" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vabs-108&show_icons=true&locale=en&bg_color=121212&text_color=ffffff" alt="vabs-108" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vabs-108&" alt="vabs-108" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vabs-108&bg_color=121212&text_color=ffffff" alt="vabs-108" />
 </p>
 
 ## 🌱 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vabs-108&show_icons=true&locale=en&layout=compact" alt="vabs-108" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vabs-108&show_icons=true&locale=en&layout=compact&bg_color=121212&text_color=ffffff" alt="vabs-108" />
 </p>
 
 ## 📬 Let's Connect!
