@@ -1,12 +1,14 @@
 # Hi there 👋, I'm Vaibhav Khanna
 ### An Optimistic Developer who loves Automation and Building Scalable Systems
 
-<!-- Profile Views aligned to the left -->
+<!-- Flexbox Container to ensure correct alignment without extra spaces -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0;">
-  <p align="left" style="margin-bottom: 0;">
+  
+  <!-- Profile Views aligned to the left -->
+  <p align="left" style="margin-bottom: 0; padding-right: 10px;">
     <img src="https://komarev.com/ghpvc/?username=vabs-108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
-
+  
   <!-- Profile GIF aligned to the right -->
   <p align="right" style="margin-bottom: 0;">
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952rsofwhmoh6v4qhi2gz6uyguz1rk15hsjygxs6jwi&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="MasterHead">
