@@ -6,7 +6,7 @@
 
   <!-- Profile Views aligned to the left -->
   <p align="left" style="margin: 0; padding-right: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=vabs-108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
   </p>
   
   <!-- Profile GIF aligned to the right -->
