@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Khanna</h1>
 <h3 align="center">A Optimistic Developer that likes to Automate</h3>
 
-<p align="center"><img align="center" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>">
+<p><a href="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952rsofwhmoh6v4qhi2gz6uyguz1rk15hsjygxs6jwi&ep=v1_gifs_search&rid=200w.gif&ct=g">via GIPHY</a></p>">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vabs-108&label=Profile%20views&color=0e75b6&style=flat" alt="vabs-108" /> </p>
 
 - 🔭 I’m currently working on **Large Scale Deviations Project**
