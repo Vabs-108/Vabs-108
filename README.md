@@ -9,7 +9,7 @@
   <p align="right">
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952rsofwhmoh6v4qhi2gz6uyguz1rk15hsjygxs6jwi&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="MasterHead">
   </p>
-</div>
+
 - 🔭 I’m currently working on **Large Scale Deviations Project**
 
 - 🌱 I’m currently learning **Devops,Network Concepts,Web3,GoLang**
@@ -35,7 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vabs-108&" alt="vabs-108" /></p>
 
-
+</div>
 <!--
 **Vabs-108/Vabs-108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
