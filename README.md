@@ -1,22 +1,14 @@
-# Hi there 👋, I'm Vaibhav Khanna
+
 ### An Optimistic Developer who loves Automation and Building Scalable Systems
-<!-- Add a Background Header Image -->
+# Hi there 👋, I'm Vaibhav Khanna
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" alt="Header Image" width="100%" />
+  <img src="https://github.com/Vabs-108/CODE/blob/main/vabs.jpg" alt="Header Image" width="100%" />
 </p>
-
-# Hi there 👋, I'm Vaibhav Khanna
-
-# Hi there 👋, I'm Vaibhav Khanna
-
-
 <!-- Create a Flex container to hold the Profile Views and GIF -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0; width: 100%;">
 
   <!-- Profile Views on the left -->
-  <p style="margin: 0;">
-    <img src="https://komarev.com/ghpvc/?username=vabs-108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </p>
+
   
   <!-- GIF on the right -->
   <p style="margin: 0;">
