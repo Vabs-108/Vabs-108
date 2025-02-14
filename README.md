@@ -72,6 +72,6 @@ Here are the main technologies and tools I work with:
 
 
 ## 📬 Let's Connect!
-- [LinkedIn](#) (Placeholder link)
-- [Twitter](#) (Placeholder link)
-- [Instagram](#) (Placeholder link)
+
+- [Twitter](#) (https://x.com/Vabs_786)
+- [LinkedIn](#) (https://www.linkedin.com/in/vaibhav-khanna-61032b192/)
