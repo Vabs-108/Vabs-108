@@ -8,7 +8,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0; width: 100%;">
 
   <!-- Profile Views on the left -->
-
   
  
   <p style="margin: 0;">
