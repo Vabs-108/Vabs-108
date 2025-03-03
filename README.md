@@ -16,7 +16,7 @@
 
 </div>
 
-## About Me
+## Here's a bit about me
 - 🔭 I’m currently working on **Large Scale Deviations Project**.
 - 🌱 I’m learning **DevOps, Networking, Web3, GoLang** to enhance my automation and system design skills.
 - 👨‍💻 You can explore my projects on [GitHub](https://github.com/Vabs-108).
